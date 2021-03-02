@@ -160,6 +160,7 @@ console.log("다음 작업");
 1.2에서는 노드를 서버로 사용할 때의 특징과 장 단점에 대해 알아본다
 
 <img src="../images/노드장단점.png" width="700px"></img>
+
 - 장점
 
 1. 멀티 스레드 방식보다 쉽기 때문에 서버 프로그래밍에 익숙하지 않아도 쉽게 입문이 가능
@@ -184,7 +185,8 @@ Angular, React, Vue, Meteor, React Native Electro 등등..
 - 맥 기준으로 적었습니다
 
 노드의 공식 사이트(https://nodejs.org) 에 접속해서 설치.
-터미널에서 
+터미널에서
+
 ```
 node -v
 v12.9.0
@@ -192,7 +194,8 @@ v12.9.0
 npm -v
 6.14.8
 ```
-저는 node 12.9.0 버전과  npm 6.14.8 버전을 사용합니다(21년 3월)
+
+저는 node 12.9.0 버전과 npm 6.14.8 버전을 사용합니다(21년 3월)
 
 - npm 버전 업데이트하기
 
@@ -202,4 +205,4 @@ npm install -g npm
 
 - **VS Code 설치하기**
 
-VS Code의 공식 사이트(https://code.visualstudio.com/)에 접속해서  설치한다
+VS Code의 공식 사이트(<https://code.visualstudio.com/>)에 접속해서 설치한다
