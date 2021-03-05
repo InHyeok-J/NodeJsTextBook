@@ -106,7 +106,7 @@ console.log(checkNumber(10));
 console.log(checkStringOddOrEven("hello"));
 ```
 
-<img  src="../imgaes/모듈.png"  width="700px"></img>
+<img  src="../images/모듈.png"  width="700px"></img>
 
 ES2015부터는 import from, export default 문법으로 변경됨.
 위에서 썼던 require 함수나 module 객체는 따로 선언하지 않았지만 노드에서 제공하는 내장 객체이기 때문에 사용 가능하다.
